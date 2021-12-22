@@ -16,7 +16,7 @@ def find_loc(loc):
 ##  .py files locater
 ##  return the py file as well ofc
 ##  no way to optimize more than this
-##  I didn't handle one error cuz if the user is so fucjing stupid
+##  I didn't handle one error cuz if the user is so fucking stupid
 ##  that would be his own problem
 
 def return_all_py(loc):
