@@ -28,6 +28,6 @@
   but yeah here i am
   
   *Just use your brain*
-  *pip install pyinstaller*
+  *pip install pyinstaller* &&
   *pyinstaller use_ur_brain*
   
