@@ -28,6 +28,10 @@
   but yeah here i am
   
   *Just use your brain*
-  *pip install pyinstaller* &&
+  *pip install pyinstaller*
   *pyinstaller use_ur_brain*
   
+  i forgot to do something,
+  i updated the script to copy files and so on but i forget something imma change it.
+  
+  By talentless HCn1
